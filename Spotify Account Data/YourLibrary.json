@@ -1,0 +1,175 @@
+{
+  "tracks": [
+    {
+      "artist": "SLANDER",
+      "album": "Love Is Gone (Acoustic)",
+      "track": "Love Is Gone - Acoustic",
+      "uri": "spotify:track:7F1CiKqrY44kh5cDqwHOnx"
+    },
+    {
+      "artist": "Ely Waves",
+      "album": "Just Hold Me",
+      "track": "Just Hold Me",
+      "uri": "spotify:track:4pbcWPWlVftf3uSTDE3NQD"
+    },
+    {
+      "artist": "Ahmed Haroon",
+      "album": "Maine Royaan",
+      "track": "Maine Royaan - Ahmed Haroon Mix",
+      "uri": "spotify:track:4lmtPe4OokFEOwcPwWpbV0"
+    },
+    {
+      "artist": "Abdul Hannan",
+      "album": "Bikhra",
+      "track": "Bikhra",
+      "uri": "spotify:track:0OdztoASgKBBNcAgtErk0X"
+    },
+    {
+      "artist": "NF",
+      "album": "The Search",
+      "track": "Hate Myself",
+      "uri": "spotify:track:5PdEiev2BkKiZtZFcNKjfM"
+    },
+    {
+      "artist": "NF",
+      "album": "Perception",
+      "track": "Let You Down",
+      "uri": "spotify:track:52okn5MNA47tk87PeZJLEL"
+    },
+    {
+      "artist": "NF",
+      "album": "Perception",
+      "track": "Lie",
+      "uri": "spotify:track:07FkzikE6FuHIa8Ma7zJGc"
+    },
+    {
+      "artist": "Tate McRae",
+      "album": "you broke me first",
+      "track": "you broke me first",
+      "uri": "spotify:track:45bE4HXI0AwGZXfZtMp8JR"
+    },
+    {
+      "artist": "NF",
+      "album": "The Search",
+      "track": "Only",
+      "uri": "spotify:track:5lehoWkVPujeOAwb8BO0uK"
+    },
+    {
+      "artist": "Stract",
+      "album": "Losing Interest",
+      "track": "Losing Interest",
+      "uri": "spotify:track:3RbNcjVnQixKa1sULcwd2K"
+    },
+    {
+      "artist": "NF",
+      "album": "The Search",
+      "track": "The Search",
+      "uri": "spotify:track:3oLe5ZILASG8vU5dxIMfLY"
+    },
+    {
+      "artist": "NF",
+      "album": "Perception",
+      "track": "My Life",
+      "uri": "spotify:track:1kO0nC4VnEjMBeJZI7g2T2"
+    },
+    {
+      "artist": "XXXTENTACION",
+      "album": "17",
+      "track": "Everybody Dies In Their Nightmares",
+      "uri": "spotify:track:3GVkPk8mqxz0itaAriG1L7"
+    },
+    {
+      "artist": "Kina",
+      "album": "Baby You're Worth It",
+      "track": "Baby You're Worth It",
+      "uri": "spotify:track:75SW8IItf7yy1VejSLtv9W"
+    },
+    {
+      "artist": "DIVINE",
+      "album": "Mirchi",
+      "track": "Mirchi",
+      "uri": "spotify:track:5KkCsYIgMK5H7Ih31Dnd2Q"
+    },
+    {
+      "artist": "XZIIE",
+      "album": "Streets",
+      "track": "Streets",
+      "uri": "spotify:track:3r4FbVIDnQAWTbXQ3Z6Pxg"
+    },
+    {
+      "artist": "YNW Melly",
+      "album": "Melly vs. Melvin",
+      "track": "Suicidal",
+      "uri": "spotify:track:1iSqfoUFnQwV0QW1EfUit8"
+    },
+    {
+      "artist": "Dxvn.",
+      "album": "Nightfall",
+      "track": "Nightfall",
+      "uri": "spotify:track:3zxT1Qwxb3hnequUQ8wCVv"
+    },
+    {
+      "artist": "Mithoon",
+      "album": "Half Girlfriend",
+      "track": "Phir Bhi Tumko Chaahunga",
+      "uri": "spotify:track:35P2Xal9x3GAdOHytyEUFe"
+    },
+    {
+      "artist": "Craig David",
+      "album": "The Time Is Now",
+      "track": "I Know You (feat. Bastille)",
+      "uri": "spotify:track:5lRzEC0Hyj92nEr9JkDxM2"
+    },
+    {
+      "artist": "NF",
+      "album": "The Search",
+      "track": "Let Me Go",
+      "uri": "spotify:track:2PqSOrlabozEH6KXs7BvQr"
+    },
+    {
+      "artist": "NF",
+      "album": "The Search",
+      "track": "Leave Me Alone",
+      "uri": "spotify:track:3EtyEzMpfKSaoVhPunvbRV"
+    }
+  ],
+  "albums": [
+    {
+      "artist": "Yohani",
+      "album": "Moving On",
+      "uri": "spotify:album:7lMzAaOXc0b3Mc2lnx6rV6"
+    }
+  ],
+  "shows": [
+  ],
+  "episodes": [
+  ],
+  "bannedTracks": [
+  ],
+  "artists": [
+    {
+      "name": "Atif Aslam",
+      "uri": "spotify:artist:2oSONSC9zQ4UonDKnLqksx"
+    },
+    {
+      "name": "King",
+      "uri": "spotify:artist:5NHm4TU5Twz7owibYxJfFU"
+    },
+    {
+      "name": "NF",
+      "uri": "spotify:artist:6fOMl44jA4Sp5b9PpYCkzz"
+    },
+    {
+      "name": "Yohani",
+      "uri": "spotify:artist:6hyCmqlpgEhkMKKr65sFgI"
+    }
+  ],
+  "bannedArtists": [
+    {
+      "name": "Talha Anjum",
+      "uri": "spotify:artist:69xcFpmqTOmFNOL08Bxyci"
+    }
+  ],
+  "other": [
+  ]
+}
